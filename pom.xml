@@ -5,6 +5,7 @@
   
   <!--  See http://maven.apache.org/pom.html for a full description of all supported values -->
   <!-- test commentar 2 -->
+  <!-- last try -->
   <!-- GroupID - identifies WHO is making the project -->
   <groupId>com.yrgo.isbntools</groupId>
   
